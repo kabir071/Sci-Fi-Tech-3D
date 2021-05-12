@@ -1,0 +1,583 @@
+Using pre-set license
+
+(Unity:170972): Gtk-WARNING **: 03:45:28.938: Theme parsing error: gtk.css:9235:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(Unity:170972): Gtk-WARNING **: 03:45:28.938: Theme parsing error: gtk.css:9240:114: The :focused pseudo-class is deprecated. Use :focus instead.
+Desktop is 1366 x 768 @ 60 Hz
+
+ COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/kabir/UnityProjects/Sci-Fi-Tech-3D/Sci-FI Tech
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+44159
+Successfully changed project path to: /home/kabir/UnityProjects/Sci-Fi-Tech-3D/Sci-FI Tech
+/home/kabir/UnityProjects/Sci-Fi-Tech-3D/Sci-FI Tech
+Using Asset Import Pipeline V2.
+Unable to load player prefs
+Refreshing native plugins compatible for Editor in 39.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path /home/kabir/Unity/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/kabir/UnityProjects/Sci-Fi-Tech-3D/Sci-FI Tech/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Renderer: Mesa Intel(R) HD Graphics 520 (SKL GT2)
+Vendor:   Intel
+Version:  4.6 (Core Profile) Mesa 20.2.6
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
+_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
+int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier G
+L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
+t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback G
+L_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 394776128
+Initialize mono
+Mono path[0] = '/home/kabir/Unity/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = '/home/kabir/Unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/kabir/Unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56972
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/kabir/Unity/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /home/kabir/Unity/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /home/kabir/Unity/2020.3.1f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.004001 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 51.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.006 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000723 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.621 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 51.2 MB.
+System memory in use after: 51.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1555.
+Total: 4.578289 ms (FindLiveObjects: 0.234565 ms CreateObjectMapping: 0.086871 ms MarkObjects: 4.035249 ms  DeleteObjects: 0.219444 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(6dc83b50900d6dd349e7a5f7d961c9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(6dc83b50900d6dd349e7a5f7d961c9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc39a1b1b49b8948d5ad867bea1bfd6') in 0.226061 seconds
+  Import took 0.313569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 324.224634 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6374019befeac6ce670f13ba9960efb') in 0.001012 seconds
+  Import took 0.004244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 210.415438 seconds.
+  path: Assets/Game
+  artifactKey: Guid(5653e3d5ee3931b4db974555dc218258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game using Guid(5653e3d5ee3931b4db974555dc218258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9b24c9544398a686bdd17e489c7875') in 0.001926 seconds
+  Import took 0.006276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.020820 seconds.
+  path: Assets/Game/Game_Models
+  artifactKey: Guid(8c63c79a0a8817c4d92dd90d983ff960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Game_Models using Guid(8c63c79a0a8817c4d92dd90d983ff960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb563608ed9692f38d409e626622be79') in 0.001535 seconds
+  Import took 0.005598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.706059 seconds.
+  path: Assets/Game/Materials
+  artifactKey: Guid(82dccd7e750442c47973ba13e5f8178d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Materials using Guid(82dccd7e750442c47973ba13e5f8178d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92a5b1a2eab17c3bf1d5ba4c9a27e10') in 0.001483 seconds
+  Import took 0.005249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.697047 seconds.
+  path: Assets/Game/Audio
+  artifactKey: Guid(9fa18a8537c7b6f4da4dd1536bacf41c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Audio using Guid(9fa18a8537c7b6f4da4dd1536bacf41c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5336143848107c49dfad9c569c02a6d1') in 0.001498 seconds
+  Import took 0.005346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054828 seconds.
+  path: Assets/Game/Audio/BackgroundMusic.ogg
+  artifactKey: Guid(460cbf252686b5f40b1ec18039f70b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Audio/BackgroundMusic.ogg using Guid(460cbf252686b5f40b1ec18039f70b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66505373cdcb1415f3ad2f01b6e1dce4') in 1.184738 seconds
+  Import took 1.190168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000823 seconds.
+  path: Assets/Game/Audio/You_Win.ogg
+  artifactKey: Guid(4bb10aeb4f80079438e51f131753f5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Audio/You_Win.ogg using Guid(4bb10aeb4f80079438e51f131753f5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df089c2164b4ac79c5d1b0a537c3f5f4') in 0.016921 seconds
+  Import took 0.022750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/Game/Audio/MarketAmbient.ogg
+  artifactKey: Guid(2133d76a50380f84b8c2275c2f348c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Audio/MarketAmbient.ogg using Guid(2133d76a50380f84b8c2275c2f348c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '286c63c9be14be34c1ed93aa7d1b2f85') in 0.007694 seconds
+  Import took 0.011045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Game/Audio/Shoot_Sound.wav
+  artifactKey: Guid(fe8a9b071dcb76c419fb6a53d47deb1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Audio/Shoot_Sound.wav using Guid(fe8a9b071dcb76c419fb6a53d47deb1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '005fe00ee6c990c99cc616f86af6f870') in 0.008464 seconds
+  Import took 0.012066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Game/Audio/Pickup.ogg
+  artifactKey: Guid(8b58dd752e4a81b47a0deb149a13157d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Audio/Pickup.ogg using Guid(8b58dd752e4a81b47a0deb149a13157d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b340e22e97186fa39c74a289b68332') in 0.006675 seconds
+  Import took 0.009854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.081891 seconds.
+  path: Assets/Game/Effects
+  artifactKey: Guid(3329700e62b39cc49b518222bf45556b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Effects using Guid(3329700e62b39cc49b518222bf45556b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c60323bdaae4a6ce512cf045ab6254d4') in 0.001464 seconds
+  Import took 0.005965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103428 seconds.
+  path: Assets/Game/Effects/Coin_Particles.prefab
+  artifactKey: Guid(ff930570306602443824325b439871b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Effects/Coin_Particles.prefab using Guid(ff930570306602443824325b439871b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368e41c7e826995ec7a46ab916bd9964') in 0.042168 seconds
+  Import took 0.045953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Game/Effects/Muzzle_Flash.prefab
+  artifactKey: Guid(90ede6b057f813143905c5709cb9df0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Effects/Muzzle_Flash.prefab using Guid(90ede6b057f813143905c5709cb9df0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '852c10a0e99c7473b32c76f1c0ee7ed3') in 0.003744 seconds
+  Import took 0.006676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Game/Effects/Trail.mat
+  artifactKey: Guid(928c4cd2df43e4b48b0f8c364c809f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Effects/Trail.mat using Guid(928c4cd2df43e4b48b0f8c364c809f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e13139fd1b47b8831b7683fa9f039cc') in 0.344481 seconds
+  Import took 0.347286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Game/Effects/Hit_Marker.prefab
+  artifactKey: Guid(0dca392d0ad60af418c1bace1abde0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Effects/Hit_Marker.prefab using Guid(0dca392d0ad60af418c1bace1abde0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c5652f1acc2c6fa528919ae976bef6') in 0.003672 seconds
+  Import took 0.006551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.540355 seconds.
+  path: Assets/Game/Game_Models/Level.prefab
+  artifactKey: Guid(93fb048d0136f084cb1f783ca99e5ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Game_Models/Level.prefab using Guid(93fb048d0136f084cb1f783ca99e5ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228f27449905bd1299c22ba3a26a841f') in 4.725859 seconds
+  Import took 4.737595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Game/Game_Models/Wooden_Crate_Cracked.prefab
+  artifactKey: Guid(b3dc6d5c1ab8158418b2f82094975753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Game_Models/Wooden_Crate_Cracked.prefab using Guid(b3dc6d5c1ab8158418b2f82094975753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83fd15c1510924fb526a53262b744628') in 0.023824 seconds
+  Import took 0.028634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Game/Level_Dont_Touch
+  artifactKey: Guid(9ad40ec4082bdec40b4da34344b82e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch using Guid(9ad40ec4082bdec40b4da34344b82e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a82777a8207b7b5733d53d55b9d74a6') in 0.001085 seconds
+  Import took 0.004020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Game/Game_Models/Market_Collision.FBX
+  artifactKey: Guid(e582ad25494856c48a62bb7a4e4b4143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Game_Models/Market_Collision.FBX using Guid(e582ad25494856c48a62bb7a4e4b4143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ba35c1145bd46b41b10e4786fcf79c') in 0.121055 seconds
+  Import took 0.125069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Game/Game_Models/Wooden_Crate.prefab
+  artifactKey: Guid(c4fa03dde2a5a52439028e5fba052e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Game_Models/Wooden_Crate.prefab using Guid(c4fa03dde2a5a52439028e5fba052e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a8e36bfd96c865932537c6eae69ef6') in 0.019984 seconds
+  Import took 0.024276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Game/Game_Models/Weapon.prefab
+  artifactKey: Guid(88bae2de7f0014e4fa5e93fd72610be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Game_Models/Weapon.prefab using Guid(88bae2de7f0014e4fa5e93fd72610be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d381030022563bb83ad0c1c521ee478') in 0.035253 seconds
+  Import took 0.040171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.168335 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets
+  artifactKey: Guid(75af635b8bab44370b06b522f4dd2bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets using Guid(75af635b8bab44370b06b522f4dd2bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a34e37bd9ff4c1d4d0530bc0034e3f62') in 0.001090 seconds
+  Import took 0.004554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.423828 seconds.
+  path: Assets/Game/Skybox
+  artifactKey: Guid(89190f0af09ca4fa38cad2b7ed7ecf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Skybox using Guid(89190f0af09ca4fa38cad2b7ed7ecf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae1586dbd132b0131b88dfe90185b5c8') in 0.001405 seconds
+  Import took 0.005758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.331036 seconds.
+  path: Assets/Game/Skybox/Scene
+  artifactKey: Guid(570cba0f0f14e2c41a3870c6e4989832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Skybox/Scene using Guid(570cba0f0f14e2c41a3870c6e4989832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab50998415643a06f31fdf3ceb573246') in 0.001403 seconds
+  Import took 0.004841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Game/Skybox/Scene
+  artifactKey: Guid(570cba0f0f14e2c41a3870c6e4989832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Skybox/Scene using Guid(570cba0f0f14e2c41a3870c6e4989832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab50998415643a06f31fdf3ceb573246') in 0.001429 seconds
+  Import took 0.005352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.861882 seconds.
+  path: Assets/Game/Skybox/Materials
+  artifactKey: Guid(c24b7eb175a60b744b7defb86dbc1722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Skybox/Materials using Guid(c24b7eb175a60b744b7defb86dbc1722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e70e37338c0906cf8ee88acdc51bfd8c') in 0.001003 seconds
+  Import took 0.003740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047379 seconds.
+  path: Assets/Game/Skybox/Materials/Skybox_Daytime.mat
+  artifactKey: Guid(71f14a2d79f732f4d9893ef1b911f4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Skybox/Materials/Skybox_Daytime.mat using Guid(71f14a2d79f732f4d9893ef1b911f4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3411153236706f56f30fa9543ca3596c') in 0.200667 seconds
+  Import took 0.208248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Game/Skybox/Materials/Skybox_Sunset.mat
+  artifactKey: Guid(4067de1a02072244798361060c5e7325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Skybox/Materials/Skybox_Sunset.mat using Guid(4067de1a02072244798361060c5e7325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6da2aad86bfd7813c5f1870ded31f1b') in 0.056003 seconds
+  Import took 0.061357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Game/Skybox/Materials/Skybox_Daytime.mat
+  artifactKey: Guid(71f14a2d79f732f4d9893ef1b911f4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Skybox/Materials/Skybox_Daytime.mat using Guid(71f14a2d79f732f4d9893ef1b911f4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3411153236706f56f30fa9543ca3596c') in 0.051862 seconds
+  Import took 0.057136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.671976 seconds.
+  path: Assets/Game/Skybox/Cubemaps
+  artifactKey: Guid(05ed5ae0357ba2b42acc61e9297be678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Skybox/Cubemaps using Guid(05ed5ae0357ba2b42acc61e9297be678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52090e2c6eebecf3c230b8a1c9c99939') in 0.001057 seconds
+  Import took 0.003819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050354 seconds.
+  path: Assets/Game/Skybox/Cubemaps/daytime.hdr
+  artifactKey: Guid(1cde0e200e792cb4491204276a656490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Skybox/Cubemaps/daytime.hdr using Guid(1cde0e200e792cb4491204276a656490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae0853e16af01f6dba7ee7a7906ffb15') in 0.183088 seconds
+  Import took 0.188831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Game/Skybox/Cubemaps/sunset.hdr
+  artifactKey: Guid(656a59a5ff93c46498416d97e5c16b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Skybox/Cubemaps/sunset.hdr using Guid(656a59a5ff93c46498416d97e5c16b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21fa43e9fe9b110928395fbab8e8adbf') in 0.054891 seconds
+  Import took 0.060044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.835471 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b55394cc7cc710c80da012ec49d291e8') in 0.002996 seconds
+  Import took 0.007918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.645288 seconds.
+  path: Assets/Game/Level_Dont_Touch/Environment_Model
+  artifactKey: Guid(505c412ec1eca8a42809b8f14acb5cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Environment_Model using Guid(505c412ec1eca8a42809b8f14acb5cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a224486559f44251ae74b61d30c44bdb') in 0.001237 seconds
+  Import took 0.005193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.051899 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/Characters
+  artifactKey: Guid(f75f738aa19d94c77939b9d56fb23e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/Characters using Guid(f75f738aa19d94c77939b9d56fb23e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0970fd4cf489f10e4b877ffca0e509ec') in 0.001114 seconds
+  Import took 0.004523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.359546 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput
+  artifactKey: Guid(03a26a9fb5189436eae7e5c6af86a33e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput using Guid(03a26a9fb5189436eae7e5c6af86a33e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ca8e0e4bc5bef3dd2df8217731756c') in 0.001209 seconds
+  Import took 0.005114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.683622 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts
+  artifactKey: Guid(45c77951b401748739a0064150eb1373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts using Guid(45c77951b401748739a0064150eb1373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '281ab530c8c791d9bda0f15ca3843ed1') in 0.001176 seconds
+  Import took 0.006635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.345565 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs
+  artifactKey: Guid(9ab98b66288df7b4fa182075f2f12bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs using Guid(9ab98b66288df7b4fa182075f2f12bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be01c020498ccffd3715aec1d7e33466') in 0.001076 seconds
+  Import took 0.004598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003228 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs
+  artifactKey: Guid(9ab98b66288df7b4fa182075f2f12bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs using Guid(9ab98b66288df7b4fa182075f2f12bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be01c020498ccffd3715aec1d7e33466') in 0.001608 seconds
+  Import took 0.005423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.471270 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs
+  artifactKey: Guid(85bf3be603548374ca46f521a3aa7fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs using Guid(85bf3be603548374ca46f521a3aa7fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055d4f841543a359355e0e7055e2e154') in 0.001484 seconds
+  Import took 0.005245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003703 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs
+  artifactKey: Guid(85bf3be603548374ca46f521a3aa7fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs using Guid(85bf3be603548374ca46f521a3aa7fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055d4f841543a359355e0e7055e2e154') in 0.001201 seconds
+  Import took 0.004384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.586756 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs
+  artifactKey: Guid(6ac1ce5a5adfd9f46adbf5b6f752a47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs using Guid(6ac1ce5a5adfd9f46adbf5b6f752a47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b7d64fdf5b8666c9fb88c73ae61f78') in 0.002160 seconds
+  Import took 0.006463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002968 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs
+  artifactKey: Guid(6ac1ce5a5adfd9f46adbf5b6f752a47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs using Guid(6ac1ce5a5adfd9f46adbf5b6f752a47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b7d64fdf5b8666c9fb88c73ae61f78') in 0.001231 seconds
+  Import took 0.004053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.532811 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs
+  artifactKey: Guid(7d3269566d48b8447bb48d2259e28f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs using Guid(7d3269566d48b8447bb48d2259e28f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd032e4cf08b4d2f2ef2c6c7995283748') in 0.001508 seconds
+  Import took 0.005961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003020 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs
+  artifactKey: Guid(7d3269566d48b8447bb48d2259e28f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs using Guid(7d3269566d48b8447bb48d2259e28f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd032e4cf08b4d2f2ef2c6c7995283748') in 0.001431 seconds
+  Import took 0.005690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.277091 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific
+  artifactKey: Guid(6f6a177e8660f451ebe0792ab3ca06cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific using Guid(6f6a177e8660f451ebe0792ab3ca06cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b956c277dd018edd90c09dc62ad1f277') in 0.001153 seconds
+  Import took 0.005109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.607254 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/Utility
+  artifactKey: Guid(96921311f36bb49fc9c252cd76b92487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/Utility using Guid(96921311f36bb49fc9c252cd76b92487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b0cba72653ddad957e6aa608f23a71a') in 0.001131 seconds
+  Import took 0.004402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.891343 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/Utility/ForcedReset.cs
+  artifactKey: Guid(9b886447cba80f74e820adb3c9e70c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/Utility/ForcedReset.cs using Guid(9b886447cba80f74e820adb3c9e70c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84b8437d45be138442c5ce507ed1d944') in 0.001084 seconds
+  Import took 0.003802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005888 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/Utility/ForcedReset.cs
+  artifactKey: Guid(9b886447cba80f74e820adb3c9e70c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/Utility/ForcedReset.cs using Guid(9b886447cba80f74e820adb3c9e70c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84b8437d45be138442c5ce507ed1d944') in 0.001460 seconds
+  Import took 0.005871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.914379 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/Utility/ForcedReset.cs
+  artifactKey: Guid(9b886447cba80f74e820adb3c9e70c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/Utility/ForcedReset.cs using Guid(9b886447cba80f74e820adb3c9e70c76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b5d671ff354760feaf59323e339699') in 0.001719 seconds
+  Import took 0.006866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.772024 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/Utility/SimpleActivatorMenu.cs
+  artifactKey: Guid(69b69a5b0e0a85b4aa97a7edc40c37d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/Utility/SimpleActivatorMenu.cs using Guid(69b69a5b0e0a85b4aa97a7edc40c37d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c43323b781dd35d39f1c05eac17087b6') in 0.002754 seconds
+  Import took 0.008881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.535012 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/Utility/SimpleActivatorMenu.cs
+  artifactKey: Guid(69b69a5b0e0a85b4aa97a7edc40c37d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/Utility/SimpleActivatorMenu.cs using Guid(69b69a5b0e0a85b4aa97a7edc40c37d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ae78d9ce4862393a28f0ee6349b771') in 0.001612 seconds
+  Import took 0.007577 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001190 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+PlayerSettings Validation: Requested build target group (20) doesn't exist; #define symbols for scripting won't be added.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.PlayerSettings:SetScriptingDefineSymbolsForGroup (UnityEditor.BuildTargetGroup,string) (at /home/bokken/buildslave/unity/build/Editor/Mono/PlayerSettings.bindings.cs:807)
+UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:SetEnabled (string,bool,bool) (at Assets/Game/Level_Dont_Touch/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:128)
+UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:.cctor () (at Assets/Game/Level_Dont_Touch/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:22)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Assets/Game/Level_Dont_Touch/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs line 128]
+
+PlayerSettings Validation: Requested build target group (22) doesn't exist; #define symbols for scripting won't be added.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.PlayerSettings:SetScriptingDefineSymbolsForGroup (UnityEditor.BuildTargetGroup,string) (at /home/bokken/buildslave/unity/build/Editor/Mono/PlayerSettings.bindings.cs:807)
+UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:SetEnabled (string,bool,bool) (at Assets/Game/Level_Dont_Touch/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:128)
+UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:.cctor () (at Assets/Game/Level_Dont_Touch/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:22)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Assets/Game/Level_Dont_Touch/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs line 128]
+
+PlayerSettings Validation: Requested build target group (17) doesn't exist; #define symbols for scripting won't be added.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.PlayerSettings:SetScriptingDefineSymbolsForGroup (UnityEditor.BuildTargetGroup,string) (at /home/bokken/buildslave/unity/build/Editor/Mono/PlayerSettings.bindings.cs:807)
+UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:SetEnabled (string,bool,bool) (at Assets/Game/Level_Dont_Touch/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:128)
+UnityStandardAssets.CrossPlatformInput.Inspector.CrossPlatformInitialize:.cctor () (at Assets/Game/Level_Dont_Touch/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs:22)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Assets/Game/Level_Dont_Touch/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs line 128]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.313 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.4 MB.
+System memory in use after: 55.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1669.
+Total: 4.141197 ms (FindLiveObjects: 0.247926 ms CreateObjectMapping: 0.073743 ms MarkObjects: 3.009834 ms  DeleteObjects: 0.807416 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.355472 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/Utility/SimpleActivatorMenu.cs
+  artifactKey: Guid(69b69a5b0e0a85b4aa97a7edc40c37d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/Utility/SimpleActivatorMenu.cs using Guid(69b69a5b0e0a85b4aa97a7edc40c37d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4d1c9ef3a71d8c272c6c811b5e040d') in 0.005384 seconds
+  Import took 0.009730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011185 seconds.
+  path: Assets/Game/Level_Dont_Touch/Standard Assets/Utility/SimpleActivatorMenu.cs
+  artifactKey: Guid(69b69a5b0e0a85b4aa97a7edc40c37d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Level_Dont_Touch/Standard Assets/Utility/SimpleActivatorMenu.cs using Guid(69b69a5b0e0a85b4aa97a7edc40c37d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4d1c9ef3a71d8c272c6c811b5e040d') in 0.001864 seconds
+  Import took 0.006846 seconds .
+
